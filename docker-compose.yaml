@@ -1,0 +1,11 @@
+services:
+  notebook:
+    container_name: python_notebook
+    labels:
+      description: Python 3.9 using Jupyter Notebooks
+      name: jupyter-lab notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - $PWD/notebooks:/notebooks:rw
+    build: .
