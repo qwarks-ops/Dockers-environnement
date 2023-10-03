@@ -1,4 +1,4 @@
-# Dockers_config
+# Dockers environnements
 Particular dockers configuration
 
 Each branch propose a configuration for dockerfile, docker-compose.yml. 
