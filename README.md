@@ -2,8 +2,8 @@
 Particular dockers configuration
 
 Each branch propose a configuration for dockerfile, docker-compose.yml. 
-Some case others files will be added for specifice environnement.
-
+Some case others files will be added for specific environnement.
+The goal is to centralize minimal simple configuration. 
 
 Documentations:
 * Install : https://docs.docker.com/engine/install/debian/
