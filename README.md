@@ -1,4 +1,4 @@
-# Dockers_config
+# Jupyter on Docker
 
 1. Create a directory on your host system (mkdir)
 2. Copy the dockerfile, docker-compose.yaml and requirements.txt
