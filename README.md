@@ -1,7 +1,7 @@
 # Dockers environnements
 Particular dockers configuration
 
-Each branch propose a configuration for dockerfile, docker-compose.yml. 
+Each branch propose a configuration for dockerfile, docker-compose.yml. \
 Some case others files will be added for specific environnement.
 The goal is to centralize minimal simple configuration. 
 
